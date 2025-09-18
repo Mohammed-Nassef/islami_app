@@ -1,0 +1,43 @@
+class AssetManegment {
+  static String splashios = "assets/image/splash_ios.png";
+  static String splashAndroid12 = "assets/image/splash_Android_12.png";
+  static String onbordaing1 = "assets/image/onbordaing1.png";
+  static String onbordaing2 = "assets/image/onbordaing2.png";
+  static String onbordaing3 = "assets/image/onbordaing3.png";
+  static String onbordaing4 = "assets/image/onbordaing4.png";
+  static String onbordaing5 = "assets/image/onbordaing5.png";
+  static String header = "assets/image/header.png";
+  static String quranbackground = "assets/image/quran_background.png";
+  static String hadeethbackground = "assets/image/hadeeth_background.png";
+  static String radiobackground = "assets/image/radio_background.png";
+  static String timebackground = "assets/image/time_background.png";
+  static String sebhabackground = "assets/image/sebha_background.png";
+  static String bodysebha = "assets/image/body_sebha.png";
+  static String headersebha = "assets/image/header_sebha.png";
+  static String hadethcardbackground =
+      "assets/image/hadeth_card_background.png";
+  static String hadethrightcorner = "assets/image/hadeth _right corner.png";
+  static String hadethleftcorner = "assets/image/hadeth _left corner.png";
+  static String mostrecently = "assets/image/most_recently.png";
+  static String footer = "assets/image/footer.png";
+  static String sound = "assets/image/sound.png";
+  static String hadethfooter = "assets/image/hadeth_footer.png";
+  static String maskleft = "assets/image/Mask_left.png";
+  static String maskright = "assets/image/Mask_right.png";
+  static String numquran = "assets/icon/num_quran.svg";
+  static String quran = "assets/icon/quran.svg";
+  static String hadeeth = "assets/icon/hadeeth.svg";
+  static String sibha = "assets/icon/sibha.svg";
+  static String time = "assets/icon/time.svg";
+  static String radio = "assets/icon/radio.svg";
+  static String play = "assets/icon/play.svg";
+  static String stop = "assets/icon/stop.svg";
+  static String volumehight = "assets/icon/Volume_hight.svg";
+  static String volumemute = "assets/icon/Volume_mute.svg";
+  static String volumeslash = "assets/icon/Volume_slash.svg";
+  static String walkingazkar = "assets/image/Walking Azkar.png";
+  static String sleepingAzkar = "assets/image/Sleeping Azkar.png";
+  static String eveningAzkar = "assets/image/Evening Azkar.png";
+  static String morningAzkar = "assets/image/Morning Azkar.png";
+  static String timeCard = "assets/image/time_card.png";
+}
